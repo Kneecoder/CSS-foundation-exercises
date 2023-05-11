@@ -1,21 +1,23 @@
 #firstID {
     color: blue;
     font-size: 36px;
+    margin-bottom: 10px; /* Add margin-bottom to create space between elements */
 }
 
 #secondID {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
+    margin-bottom: 10px; /* Add margin-bottom to create space between elements */
 }
 
 .class {
     background-color: pink;
     font-family: Verdana, DejaVu sans, sans-serif;
-
-
+    margin-bottom: 10px; /* Add margin-bottom to create space between elements */
 }
 
 .cool-class {
     font-size: 24px;
+    margin-bottom: 10px; /* Add margin-bottom to create space between elements */
 }
